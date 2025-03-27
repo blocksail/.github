@@ -18,12 +18,6 @@ BlockSail Labs Inc. is a research and development company specializing in cuttin
 - **Web3 Technologies**: IPFS, Filecoin, The Graph
 - **DevOps Tools**: Docker, Kubernetes, Terraform
 
-## 🔗 Key Projects
-
-- **[Project Alpha](https://github.com/blocksail/project-alpha)** - Scalable L2 solution for DeFi applications
-- **[BlockSail SDK](https://github.com/blocksail/blocksail-sdk)** - Developer toolkit for rapid blockchain integration
-- **[Chain Compass](https://github.com/blocksail/chain-compass)** - Analytics and monitoring platform for blockchain networks
-
 ## 👥 Our Approach
 
 At BlockSail Labs, we navigate the complex waters of blockchain technology with expertise and precision. We combine academic research with practical engineering to deliver solutions that are not only technically sound but also commercially viable.
